@@ -1,0 +1,1 @@
+<div class="featureBar"><div id="testimonial-slider" class="headline"><h1 style="text-align:center">Our Featured Apps</h1><ul class="slides"><li class="featureAppImg-1"></li><li class="featureAppImg-2"></li><li class="featureAppImg-3"></li><li class="featureAppImg-4"></li></ul><span class="clr"></span></div></div>
